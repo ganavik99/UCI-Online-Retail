@@ -87,9 +87,6 @@ Power BI
        ↓
 Interactive Dashboard
 
-Raw Data → Python Cleaning → PostgreSQL → SQL Analysis → Power BI Dashboard
-
-
 Power BI Dashboard
 
 The dashboard provides an interactive view of sales and returns performance.
@@ -107,6 +104,11 @@ Top 10 Customers by Revenue
 Monthly Return Rate
 Year slicer
 Country slicer
+
+
+Dashboard Preview
+
+<img width="2559" height="1383" alt="image" src="https://github.com/user-attachments/assets/580ac6b6-8dfd-48d8-a94c-1095ea0816d1" />
 
 
 Key Analysis
@@ -130,7 +132,6 @@ Returns Analysis
 
 Return value and return rate were analyzed over time to identify periods with elevated returns.
 
-
 Project Structure
 UCI-Online-Retail/
 │
@@ -151,6 +152,8 @@ UCI-Online-Retail/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+
 How to Run
 1. Clone the repository
 git clone https://github.com/ganavik99/UCI-Online-Retail.git
@@ -170,6 +173,8 @@ Create a PostgreSQL database and update the database connection details in:
 src/load_database.py
 5. Load the data
 python src/load_database.py
+
+
 Business Insights
 
 The analysis shows that:
@@ -192,3 +197,5 @@ Author
 Ganavi K
 
 Data Analytics | Python | SQL | PostgreSQL | Power BI
+
+
