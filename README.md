@@ -110,7 +110,7 @@ Country slicer
 
 Dashboard Preview
 
-<img width="2559" height="1383" alt="image" src="https://github.com/user-attachments/assets/580ac6b6-8dfd-48d8-a94c-1095ea0816d1" />
+<img width="2559" height="1383" alt="image" src="https://github.com/user-attachments/assets/7f7cdd07-7cb1-4c5e-b64d-9eaec798c121" />
 
 
 Key Analysis
