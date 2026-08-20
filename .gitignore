@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data files
+data/raw/
+data/processed/*.csv
+
+# Power BI
+*.pbix
+
+# Environment/secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
